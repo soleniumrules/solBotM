@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agubelu/discord-music-bot.git"
+    "url": "git+https://github.com/soleniumrules/solBotM.git"
   },
   "keywords": [
     "discord",
     "bot",
     "music"
   ],
-  "author": "agubelu",
+  "author": "solenium",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/agubelu/discord-music-bot/issues"
@@ -29,5 +29,5 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "homepage": "https://github.com/agubelu/discord-music-bot#readme"
+  "homepage": "https://github.com/soleniumrules/solBotM"
 }
